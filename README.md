@@ -1,5 +1,6 @@
 # Projeto Pokédevs
 Meu primeiro projeto com o desenvolvimento web, de um evento de programação realizado pelo DevEmDobro. (https://www.youtube.com/@DevemDobro)
+Landing Page de lista de pokedevs
 
 ![gif de preview do site pokedev](./screen.gif)
 
