@@ -1,19 +1,19 @@
 # Projeto Pokédevs
 Meu primeiro projeto com o desenvolvimento web, de um evento de programação realizado pelo DevEmDobro. (https://www.youtube.com/@DevemDobro)
 
-Landing Page de lista de pokedevs
+Landing Page de lista de Pokédevs
 
 ![gif de preview do site pokedev](./screen.gif)
 
-## Tecnológias utilizadas:
+## Tecnologias utilizadas:
 
 - HTML
 - CSS
 - JavaScript
 
-## Como Utilizar:
+## Como executar o projeto:
 
-1- Clone pro o projeto
+1- Clone o projeto
 ```
 git clone <url>
 ```
